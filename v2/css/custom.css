@@ -1,0 +1,25 @@
+section.featured {
+    background: linear-gradient(rgba(44, 62, 80, 0.7),rgba(44, 62, 80, 0.7)), url(../img/brochure/Marigold.JPG); /*url(../img/brochure/Marigold.JPG);*/
+}
+
+p.featured {
+    font-size: 40px;
+}
+
+#testimonials {
+    background-image: url('../img/brochure/Cucumber/0A. General.JPG');
+    background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+}
+
+#parallax1 {
+    background-image: url(../img/brochure/Chilli/General-1.JPG);
+    background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+}
+
+#parallax2 {
+    background-image: url(../img/brochure/Tomato/General.JPG);
+    background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+}
