@@ -122,6 +122,11 @@
             });
 
         }
+
+        // Parallax
+        // $('.parallax').each(function() {
+        //     $(this).parallax('50%', 0.3, true);
+        // });
 	
 	//nicescroll
 	$("html").niceScroll({zindex:999,cursorborder:"",cursorborderradius:"2px",cursorcolor:"#191919",cursoropacitymin:.5});
